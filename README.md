@@ -10,9 +10,7 @@
 </a>
 </p>
 <p align="center">
-<a href="https://scholar.google.com/citations?user=_GmD1ysAAAAJ&hl=en">
   <img height="400" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExNHVneHJ2azJ5M3g2Z3o4bXJqbjEzbmUxcDA3cDF2Nm5pOTMwdG5iOCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/JqmupuTVZYaQX5s094/giphy.gif"/>
-</a>
 </p>
 <hr>
 </a>
@@ -30,4 +28,15 @@ Education:
 </pre>
 <hr>
 <h2>Tools and Technologies:</h2>
+<p align="center">
+<img height="50" src="https://github.com/RishabhBubna/RishabhBubna/blob/main/4375050_logo_python_icon.png"/>
+<img height="50" src="https://github.com/RishabhBubna/RishabhBubna/blob/main/visualstudio_code-icon.svg"/>
+<img height="50" src="https://github.com/RishabhBubna/RishabhBubna/blob/main/julialang-ar21~bgwhite.svg"/>
+<img height="50" src="https://files.wolframcdn.com/pub/email/gmail-logo.svg"/>
+<img height="50" src="https://github.com/RishabhBubna/RishabhBubna/blob/main/315887_document_sql_file_icon.png"/>
+<img height="50" src="https://github.com/RishabhBubna/RishabhBubna/blob/main/jupyter-ar21~bgwhite.svg"/>
+<img height="50" src="https://github.com/RishabhBubna/RishabhBubna/blob/main/4375063_logo_project_r_icon.png"/>
+<img height="50" src="https://github.com/RishabhBubna/RishabhBubna/blob/main/7564189_c_logo_plus%20plus_plus_%2B%20%2B_icon.png"/>
+</p>
+<hr>
 
