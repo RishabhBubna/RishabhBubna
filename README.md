@@ -14,5 +14,20 @@
   <img height="400" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExNHVneHJ2azJ5M3g2Z3o4bXJqbjEzbmUxcDA3cDF2Nm5pOTMwdG5iOCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/JqmupuTVZYaQX5s094/giphy.gif"/>
 </a>
 </p>
-<pre> ```yaml 
-  name: Rishabh Bubna occupation: Researcher  ``` </pre>
+<hr>
+</a>
+<h2>About Me:</h2>
+<pre>
+<code>
+Name: Rishabh Bubna
+Occupation: PhD Researcher (University of Bonn)
+Located_At: Bonn, Germany
+Education: 
+    PhD in Physics (University of Bonn) -- 2022 - ongoing
+    Master's in Physics (University of Bonn) -- 2020 - 2025
+    Bachelor's in Physics, Mathematics and Electronics (Christ University) -- 2017 - 2020
+</code>
+</pre>
+<hr>
+<h2>Tools and Technologies:</h2>
+
