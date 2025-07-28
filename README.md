@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?text=WELCOME%20!&animation=fadeIn&type=soft&color=gradient&height=100"/>
+  <img src="https://capsule-render.vercel.app/api?text=WELCOME%20!&animation=fadeIn&type=waving&color=gradient&height=100"/>
 </p>
 <p align="center">
 <a href="https://www.linkedin.com/in/rishabh-bubna-304bb3172/">
@@ -39,4 +39,3 @@ Education:
 <img height="50" src="https://github.com/RishabhBubna/RishabhBubna/blob/main/7564189_c_logo_plus%20plus_plus_%2B%20%2B_icon.png"/>
 </p>
 <hr>
-
